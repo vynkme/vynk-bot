@@ -2,7 +2,7 @@
   "name": "vynk-bot",
   "version": "1.0.0",
   "private": true,
-  "description": "A Probot app",
+  "description": "deployment bot by vynk",
   "author": "Maanas Nair <0xbirdie@gmail.com>",
   "license": "ISC",
   "homepage": "https://github.com/vynkme/vynk-bot",
